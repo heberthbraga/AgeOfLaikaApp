@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		760D5B2C19D31DBA00A3ECB5 /* AgeOfLaika.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 760D5B2B19D31DBA00A3ECB5 /* AgeOfLaika.jpg */; };
 		7651A22619D1EA00005858AB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7651A22519D1EA00005858AB /* AppDelegate.swift */; };
 		7651A22919D1EA00005858AB /* AgeOfLaikaApp.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 7651A22719D1EA00005858AB /* AgeOfLaikaApp.xcdatamodeld */; };
 		7651A22B19D1EA00005858AB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7651A22A19D1EA00005858AB /* ViewController.swift */; };
@@ -27,6 +28,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		760D5B2B19D31DBA00A3ECB5 /* AgeOfLaika.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = AgeOfLaika.jpg; sourceTree = "<group>"; };
 		7651A22019D1EA00005858AB /* AgeOfLaikaApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AgeOfLaikaApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7651A22419D1EA00005858AB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7651A22519D1EA00005858AB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -93,6 +95,7 @@
 		7651A22319D1EA00005858AB /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				760D5B2B19D31DBA00A3ECB5 /* AgeOfLaika.jpg */,
 				7651A22419D1EA00005858AB /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -196,6 +199,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7651A22E19D1EA00005858AB /* Main.storyboard in Resources */,
+				760D5B2C19D31DBA00A3ECB5 /* AgeOfLaika.jpg in Resources */,
 				7651A23319D1EA00005858AB /* LaunchScreen.xib in Resources */,
 				7651A23019D1EA00005858AB /* Images.xcassets in Resources */,
 			);
@@ -409,6 +413,7 @@
 				7651A24419D1EA00005858AB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		7651A24519D1EA00005858AB /* Build configuration list for PBXNativeTarget "AgeOfLaikaAppTests" */ = {
 			isa = XCConfigurationList;
@@ -417,6 +422,7 @@
 				7651A24719D1EA00005858AB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
